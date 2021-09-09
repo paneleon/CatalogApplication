@@ -1,4 +1,0 @@
-Television	Electronics	99.99
-Pillow	Home	30
-Bookcase	Home	74
-Table	Home	245
